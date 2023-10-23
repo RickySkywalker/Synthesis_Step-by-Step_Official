@@ -8,13 +8,13 @@ Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors f
 If you use this code, please cite our paper:
 
 ```
-@inproceedings{
-anonymous2023lets,
-title={Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models},
-author={Anonymous},
-booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
-year={2023},
-url={https://openreview.net/forum?id=GSNoZKqHgO}
+@misc{wang2023lets,
+      title={Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models}, 
+      author={Ruida Wang and Wangchunshu Zhou and Mrinmaya Sachan},
+      year={2023},
+      eprint={2310.13671},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
